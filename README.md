@@ -9,5 +9,3 @@
 - 📫 You can contact me on Twitter @saimsajid123
 
 - ⚡ Fun fact: I am a Genius
-
-- ⚡ My Portfolio Website's Link: https://saimsajidirl.github.io/
