@@ -1,11 +1,11 @@
 ## Hi there👋,I am Muhammad Saim Sajid 
 
-- 🔭 I’m currently working on Django
-  
-- 🌱 I’m currently Expanding my skills in Machine Learning
-  
-- 💬 Ask me anything about Django and i will help you
-  
-- 📫 You can contact me on Twitter @saimsajid123
+🔭 Currently working with Django
 
-- ⚡ Fun fact: I am a Genius
+🌱 Actively expanding my skills in Machine Learning
+
+💬 Open to inquiries regarding Django; I'm here to assist
+
+📫 Feel free to reach out via YouTube: @MuhammadSaimDev
+
+⚡ Fun fact: I embrace a passion for problem-solving and continuous learning
