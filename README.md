@@ -1,71 +1,304 @@
-<!-- Header with GIF -->
-<h1 align="center">Hi there 👋, I'm Muhammad Saim Sajid</h1>
-<img src="https://media.giphy.com/media/your-gif-link-here/giphy.gif" alt="Developer GIF" width="500"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Saim Sajid - GitHub Profile</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
----
+        :root {
+            --primary-color: #3776AB;
+            --secondary-color: #092E20;
+            --accent-color: #ff1709;
+            --background-color: #0d1117;
+            --text-color: #c9d1d9;
+            --card-background: #161b22;
+        }
 
-🔭 **Currently working with Django**
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-🌱 **Actively expanding my skills in Machine Learning**
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+        }
 
-💬 **Open to inquiries regarding Django; I'm here to assist**
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
 
-📫 **Feel free to reach out via [YouTube: @MuhammadSaimDev](https://www.youtube.com/@MuhammadSaimDev)**
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
 
-⚡ **Fun fact:** I embrace a passion for problem-solving and continuous learning.
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            color: var(--primary-color);
+        }
 
----
+        .profile-image {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid var(--primary-color);
+        }
 
-<!-- Social Media Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.github.com/saimsajidirl"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub Badge"/></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://www.youtube.com/@MuhammadSaimDev"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube Badge"/></a>
-</p>
+        .tabs {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
 
----
+        .tab {
+            padding: 10px 20px;
+            background-color: var(--card-background);
+            color: var(--text-color);
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
 
-<!-- Profile View Counter -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=saimsajidirl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
+        .tab:hover, .tab:focus {
+            background-color: var(--primary-color);
+        }
 
-### 🛠️ **Languages and Tools:**
+        .tab-content {
+            display: none;
+            background-color: var(--card-background);
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+        .tab-content.active {
+            display: block;
+        }
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Badge"/>
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
+        .skill {
+            width: 120px;
+            height: 120px;
+            position: relative;
+        }
 
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+        .skill-circle {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: conic-gradient(var(--primary-color) var(--percentage), var(--card-background) 0);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
 
-  <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-  <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logoColor=white" alt="LangChain Badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
-</p>
+        .skill-inner {
+            width: 80%;
+            height: 80%;
+            background-color: var(--card-background);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimsajidirl&show_icons=true&theme=tokyonight" alt="Saim's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimsajidirl&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .social-link {
+            color: var(--text-color);
+            font-size: 24px;
+            transition: color 0.3s;
+        }
+
+        .social-link:hover {
+            color: var(--primary-color);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .stat-card {
+            background-color: var(--card-background);
+            padding: 20px;
+            border-radius: 5px;
+            text-align: center;
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .badges {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 30px;
+        }
+
+        .badge {
+            background-color: var(--secondary-color);
+            color: var(--text-color);
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9rem;
+            color: var(--text-color);
+        }
+
+        @media (max-width: 768px) {
+            .tabs {
+                flex-direction: column;
+            }
+
+            .tab {
+                width: 100%;
+            }
+
+            .stats {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Hi there 👋, I'm Muhammad Saim Sajid</h1>
+            <img src="/api/placeholder/200/200" alt="Profile Picture" class="profile-image">
+        </header>
+
+        <div class="tabs">
+            <button class="tab" onclick="openTab(event, 'about')">About</button>
+            <button class="tab" onclick="openTab(event, 'skills')">Skills</button>
+            <button class="tab" onclick="openTab(event, 'stats')">Stats</button>
+            <button class="tab" onclick="openTab(event, 'contact')">Contact</button>
+        </div>
+
+        <div id="about" class="tab-content active">
+            <ul>
+                <li>🔭 Currently working with Django</li>
+                <li>🌱 Actively expanding my skills in Machine Learning</li>
+                <li>💬 Open to inquiries regarding Django; I'm here to assist</li>
+                <li>⚡ Fun fact: I embrace a passion for problem-solving and continuous learning</li>
+            </ul>
+        </div>
+
+        <div id="skills" class="tab-content">
+            <div class="skills">
+                <div class="skill">
+                    <div class="skill-circle" style="--percentage: 90%;">
+                        <div class="skill-inner">Python</div>
+                    </div>
+                </div>
+                <div class="skill">
+                    <div class="skill-circle" style="--percentage: 85%;">
+                        <div class="skill-inner">Django</div>
+                    </div>
+                </div>
+                <div class="skill">
+                    <div class="skill-circle" style="--percentage: 80%;">
+                        <div class="skill-inner">REST</div>
+                    </div>
+                </div>
+                <div class="skill">
+                    <div class="skill-circle" style="--percentage: 75%;">
+                        <div class="skill-inner">SQL</div>
+                    </div>
+                </div>
+                <div class="skill">
+                    <div class="skill-circle" style="--percentage: 70%;">
+                        <div class="skill-inner">HTML</div>
+                    </div>
+                </div>
+                <div class="skill">
+                    <div class="skill-circle" style="--percentage: 65%;">
+                        <div class="skill-inner">CSS</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="stats" class="tab-content">
+            <div class="stats">
+                <div class="stat-card">
+                    <h3>GitHub Stats</h3>
+                    <img src="/api/placeholder/300/150" alt="GitHub Stats">
+                </div>
+                <div class="stat-card">
+                    <h3>Top Languages</h3>
+                    <img src="/api/placeholder/300/150" alt="Top Languages">
+                </div>
+            </div>
+        </div>
+
+        <div id="contact" class="tab-content">
+            <p>📫 Feel free to reach out via:</p>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/your-profile/" class="social-link">LinkedIn</a>
+                <a href="https://www.github.com/saimsajidirl" class="social-link">GitHub</a>
+                <a href="https://twitter.com/your-profile" class="social-link">Twitter</a>
+                <a href="https://www.youtube.com/@MuhammadSaimDev" class="social-link">YouTube</a>
+            </div>
+        </div>
+
+        <div class="badges">
+            <span class="badge">Python</span>
+            <span class="badge">Django</span>
+            <span class="badge">REST</span>
+            <span class="badge">PostgreSQL</span>
+            <span class="badge">AWS</span>
+            <span class="badge">Docker</span>
+            <span class="badge">Machine Learning</span>
+        </div>
+
+        <footer>
+            <p>Profile views: <img src="/api/placeholder/100/20" alt="Profile Views" style="vertical-align: middle;"></p>
+        </footer>
+    </div>
+
+    <script>
+        function openTab(evt, tabName) {
+            var i, tabContent, tabLinks;
+            tabContent = document.getElementsByClassName("tab-content");
+            for (i = 0; i < tabContent.length; i++) {
+                tabContent[i].style.display = "none";
+            }
+            tabLinks = document.getElementsByClassName("tab");
+            for (i = 0; i < tabLinks.length; i++) {
+                tabLinks[i].className = tabLinks[i].className.replace(" active", "");
+            }
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+    </script>
+</body>
+</html>
