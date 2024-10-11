@@ -26,14 +26,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack Python Developer from Pakistan.
+- :telescope: As a Full-Stack Software Engineer, I contribute to both the Frontend and Backend of web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Machine Learning and Focusing on Becoming an Advanced Full-Stack Python developer.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems and work using Prompt Engineering.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-sajid-744078266/)
 ---
 
 
