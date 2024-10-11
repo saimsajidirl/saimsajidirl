@@ -39,8 +39,8 @@ I am a Full Stack Python Developer from Pakistan.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="border-radius: 50%;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" style="border-radius: 50%;"/>&nbsp;
+  <img src="https://pbs.twimg.com/media/GZHp08jW8AAkJEE?format=png&name=small" title="Python" alt="Python" width="40" height="40" style="border-radius: 50%;"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" title="Django" alt="Django" width="40" height="40" style="border-radius: 50%;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" style="border-radius: 50%;"/>&nbsp;
   <img src="https://img.icons8.com/color/452/json-web-token.png" title="JSON Web Token" alt="JSON Web Token" width="40" height="40" style="border-radius: 50%;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40" style="border-radius: 50%;"/>&nbsp;
