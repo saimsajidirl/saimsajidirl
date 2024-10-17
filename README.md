@@ -13,7 +13,7 @@ I am a Full Stack Python Developer from Pakistan.
 
 - :zap: In my free time, I solve problems and work using Prompt Engineering.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MuhammadSaim-blue?style=flat&logo=Linkedin&logoColor=white)](https://saimsajidirl.github.io/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MuhammadSaim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-sajid-744078266/)
 ---
 
 ### :fire: My Stats :
