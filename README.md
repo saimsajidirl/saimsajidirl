@@ -6,7 +6,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Python Developer from Pakistan.
+Full-Stack Python Developer with expertise in Back-end technologies like Django,Django REST Framework and Front-end development using HTML, CSS.He is also Proficient in Machine Learning with Python libraries. Experienced with Linux systems administration,authentication using JSON Web Token and cloud infrastructure on AWS. Skilled in Git for version control, Docker for containerization, and PostgreSQL, MySQL, MongoDB, Redis, and Firebase for database management.
 - :telescope: As a Full-Stack Software Engineer, I contribute to both the Frontend and Backend of web applications.
 
 - :seedling: Exploring Machine Learning and Focusing on Becoming an Advanced Full-Stack Python developer.
