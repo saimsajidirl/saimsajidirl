@@ -16,7 +16,7 @@ Full-Stack Python Developer with expertise in Back-end technologies like Django,
 - :zap: In my free time, I solve problems and work using Prompt Engineering.
 
 - :chart_with_upwards_trend: Currently working on a SaaS product.
-- 
+
 - :zap: You can find everything about me on https://saimsajidirl.github.io/
 
 ---
