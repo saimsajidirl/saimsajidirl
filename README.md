@@ -11,11 +11,11 @@ Deep Learning Engineer and Back-End Django Developer with expertise in Django RE
 
 - :telescope: As a Full-Stack Software Engineer, I contribute to both the Frontend and Backend of web applications.
 
-- :seedling: Exploring Machine Learning and Focusing on Becoming an Advanced Full-Stack Python developer.
+- :seedling: Exploring Deep Learning and Focusing on Becoming an Advanced Full-Stack Python developer.
 
 - :zap: In my free time, I solve problems and work using Prompt Engineering.
 
-- :chart_with_upwards_trend: Currently working on a SaaS product.
+- :chart_with_upwards_trend: Currently working as a Back-End Developer at Enigmatix.
 
 - :zap: You can find everything about me on https://saimsajidirl.github.io/
 
