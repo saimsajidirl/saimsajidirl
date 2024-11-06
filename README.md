@@ -7,15 +7,15 @@
 
 ### :woman_technologist: About Me :
 
-Deep Learning Engineer and Back-End Django Developer with expertise in Django REST Framework, HTML and CSS.Experienced with Linux systems administration, authentication using JSON Web Token, and cloud infrastructure on AWS.Skilled in Git for version control, Docker for containerization, and SQL/NoSQL database management.Utilized Redis and Celery for in-memory data storage and asynchronous task processing.
+Generative AI Engineer and Back-End Django Developer with expertise in Django REST Framework, HTML and CSS.Experienced with Linux systems administration, authentication using JSON Web Token, and cloud infrastructure on AWS.Skilled in Git for version control, Docker for containerization, and SQL/NoSQL database management.Utilized Redis and Celery for in-memory data storage and asynchronous task processing.
 
-- :telescope: As a Full-Stack Software Engineer, I contribute to both the Frontend and Backend of web applications.
+- :telescope: As a Generative AI Engineer, I contribute to creating Applications related to Generative AI.
 
-- :seedling: Exploring Deep Learning and Focusing on Becoming an Advanced Full-Stack Python developer.
+- :seedling: I specialize in Django backend development to create robust and scalable web solutions.
 
 - :zap: In my free time, I solve problems and work using Prompt Engineering.
 
-- :chart_with_upwards_trend: Currently working as a Back-End Developer at Enigmatix.
+- :chart_with_upwards_trend: Currently working as a Generative AI Engineer at Enigmatix.
 
 - :zap: You can find everything about me on https://saimsajidirl.github.io/
 
