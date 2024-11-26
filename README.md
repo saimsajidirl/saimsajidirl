@@ -7,17 +7,17 @@
 
 ### :woman_technologist: About Me :
 
-Machine Learning Engineer and Back-End Developer with expertise in Django, Django REST Framework, HTML and CSS.Experienced with Linux systems administration, authentication using JSON Web Token, and cloud infrastructure on AWS.Skilled in Git for version control, Docker for containerization, and SQL/NoSQL database management.Utilized Redis and Celery for in-memory data storage and asynchronous task processing.
+Muhammad Saim Sajid is a skilled Machine Learning Engineer and Full-Stack Python Developer proficient in Python, Django, FastAPI, and cloud services like AWS. With a strong foundation in database management (MongoDB, PostgreSQL, MySQL) and tools such as Docker, Redis, and Git, he excels in robust back-end solutions. His machine learning expertise includes frameworks like PyTorch,HayStack,Langchain, Pandas, and Streamlit. Driven by problem-solving and continuous learning, Saim combines technical proficiency with a dedication to innovation.
 
-- :telescope: As a Machine Learning Engineer, I contribute to creating Applications related to Generative AI.
+- :telescope: As a Full Stack Python Developer, I contribute to creating Applications related to Web Development.
 
 - :seedling: I specialize in Django backend development to create robust and scalable web solutions.
 
 - :zap: In my free time, I solve problems and work using Prompt Engineering.
 
-- :chart_with_upwards_trend: Currently working as a Machine Learning Engineer at Enigmatix.
+- :chart_with_upwards_trend: Currently working as a Freelance Web Developer.
 
-- :zap: You can find everything about me on https://saimsajidirl.github.io/
+- :zap: You can find all of my work on https://saimsajidirl.github.io/
 
 ---
 
