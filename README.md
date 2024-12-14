@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me :
 
-Muhammad Saim Sajid is a skilled Full-Stack Python Developer and Machine Learning Enthusiast.He is proficient in Python, Django, FastAPI, and cloud services like AWS. With a strong foundation in database management (MongoDB, PostgreSQL, MySQL) and tools such as Docker, Redis, and Git, he excels in robust back-end solutions. His machine learning expertise includes frameworks like HayStack,Langchain, Pandas, and Streamlit. Driven by problem-solving and continuous learning, Saim combines technical proficiency with a dedication to innovation.
+Muhammad Saim Sajid is a skilled Software Engineer specializing in Full-Stack Python Development, with a strong interest in Machine Learning.He is proficient in Python, Django, FastAPI, and cloud services like AWS. With a strong foundation in database management (MongoDB, PostgreSQL, MySQL) and tools such as Docker, Redis, and Git, he excels in robust back-end solutions. His machine learning expertise includes frameworks like HayStack,Langchain, Pandas, and Streamlit. Driven by problem-solving and continuous learning, Saim combines technical proficiency with a dedication to innovation.
 
 - :telescope: As a Full Stack Python Developer, I contribute to creating Applications related to Web Development.
 
@@ -17,8 +17,8 @@ Muhammad Saim Sajid is a skilled Full-Stack Python Developer and Machine Learnin
 
 - :chart_with_upwards_trend: Currently learning Machine Learning as my Future Career.
 
-- :zap: You can find all of my work on https://saimsajidirl.github.io/
-
+- :zap: You can find all of my work on [Portfolio
+](https://saimsportfolio.vercel.app/)
 ---
 
 ### :fire: My Stats :
