@@ -15,7 +15,7 @@ Muhammad Saim Sajid is a skilled Software Engineer specializing in Full-Stack Py
 
 - :zap: In my free time, I solve problems and work using Prompt Engineering.
 
-- :chart_with_upwards_trend: Currently learning Machine Learning as my Future Career.
+- :chart_with_upwards_trend: Currently Studying Machine Learning to make a career in it.
 
 - :zap: You can find all of my work on [Portfolio
 ](https://saimsportfolio.vercel.app/)
