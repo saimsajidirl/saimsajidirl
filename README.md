@@ -41,6 +41,10 @@ I specialize in building scalable, maintainable software solutions and automatin
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimsajidirl&theme=tokyonight" />
+    <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimsajidirl&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+  </a>
 </p>
 
 ## 🎯 Future Goals
@@ -70,10 +74,3 @@ I specialize in building scalable, maintainable software solutions and automatin
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
-### :fire: My Stats :
-<div align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimsajidirl&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-  </a>
-</div>
