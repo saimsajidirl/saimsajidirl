@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=3B88C3&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saim+Sajid;Full-Stack+Developer;CEO+of+SMH+Softwares" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=3B88C3&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saim+Sajid;Software+Engineer;Full+Stack+Python+Developer;Co-Founder+%26+CEO+of+SMH+Softwares;Automation+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~your-upwork-profile-id"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
+  <a href="mailto:saimsajidirl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/muhammad-saim-744078266/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## 🚀 About Me
@@ -59,18 +58,6 @@ I specialize in building scalable, maintainable software solutions and automatin
 - Kubernetes and DevOps
 - System Design Patterns
 
-## 🎨 Fun Facts
-- 🎮 Gaming enthusiast
-- 🌍 Enjoys traveling
-- 📚 Avid learner
-- ☕ Coffee lover
-
-### 📫 Let's Connect
-- 📧 Email: your-email@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🌐 [Upwork](https://www.upwork.com/freelancers/~your-upwork-profile-id)
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-
