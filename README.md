@@ -14,8 +14,9 @@ I specialize in building scalable, maintainable software solutions and automatin
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,typescript,django,nodejs,postgres,mongodb,aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,drf,selenium,jwt,aws,git,docker,ubuntu,mongodb,postgres,mysql,redis,firebase,sqlite,sql,wordpress,css3,tailwind,bootstrap,streamlit,html5,haystack,langchain,pandas,numpy,matplotlib" />
 </p>
+
 
 ## 🎯 Expertise
 - 🔷 Full-Stack Development
