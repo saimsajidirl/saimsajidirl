@@ -21,22 +21,18 @@ Muhammad Saim Sajid is a skilled Software Engineer specializing in Full-Stack Py
 
 ## 🎯 Expertise
 - 🔷 Full-Stack Development
-- 🔷 Machine Learning Integration
 - 🔷 Workflow Automation
-- 🔷 Cloud Infrastructure (AWS, Kubernetes)
 - 🔷 API Development & System Design
-- 🔷 DevOps and CI/CD
 
 ## 🏆 Featured Projects
-
-### SMH Softwares (Current)
-- 🌟 CEO & Full-Stack Developer
-- 🛠️ Tech: Django, React, Kubernetes, AWS
-- 🎯 Status: Ongoing Projects with Multiple Clients
-
+### NovoScribe for Novo Nordisk
+- 📝 Tiktok Automation
+- 🛠️ Tech: Python, Playwright, JSON, SadCaptcha
+- ✅ Status: On-Going
+- 
 ### NovoScribe for Novo Nordisk
 - 📝 AI-powered document automation platform
-- 🛠️ Tech: Python, MongoDB, AI Integration
+- 🛠️ Tech: Python, MongoDB, Ollama
 - ✅ Status: Deployed
 
 ## 📈 GitHub Stats
@@ -49,16 +45,10 @@ Muhammad Saim Sajid is a skilled Software Engineer specializing in Full-Stack Py
 </p>
 
 ## 🎯 Future Goals
-- 🔮 Launch AI-powered developer tools
-- 📚 Expand expertise in Web3 Technologies
+- 🔮 Create a physical Space of SMH Softwares
+- 📚 Focus more on Automation
 - 🤖 Integrate advanced AI solutions in software products
-- 🎓 Contribute to open-source projects
-
-## 🌱 Currently Learning
-- Blockchain Development
-- Advanced AI/ML Integration
-- Kubernetes and DevOps
-- System Design Patterns
+- 🎓 Become a Machine Learning Engineer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
