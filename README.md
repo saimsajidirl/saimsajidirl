@@ -8,7 +8,7 @@
 </p>
 
 ## 🚀 About Me
-Muhammad Saim Sajid
+# Muhammad Saim Sajid
 Co-Founder & CEO at SMH Softwares | Software Engineer | Full-Stack Developer | Automation Engineer | Freelancer | Machine Learning Student
 
 Muhammad Saim Sajid is a skilled Software Engineer specializing in Full-Stack Python Development, with a strong interest in Machine Learning.He is proficient in Python, Django, FastAPI, and cloud services like AWS. With a strong foundation in database management (MongoDB, PostgreSQL, MySQL) and tools such as Docker, Redis, and Git, he excels in robust back-end solutions. His machine learning expertise includes frameworks like HayStack,Langchain, Pandas, and Streamlit. Driven by problem-solving and continuous learning, Saim combines technical proficiency with a dedication to innovation.
