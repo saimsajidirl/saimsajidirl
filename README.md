@@ -25,11 +25,11 @@ Muhammad Saim Sajid is a skilled Software Engineer specializing in Full-Stack Py
 - 🔷 API Development & System Design
 
 ## 🏆 Featured Projects
-### NovoScribe for Novo Nordisk
-- 📝 Tiktok Automation
+### Tiktok Automation
+- 📝 Automating Comments and Likes on Tiktok
 - 🛠️ Tech: Python, Playwright, JSON, SadCaptcha
 - ✅ Status: On-Going
-- 
+
 ### NovoScribe for Novo Nordisk
 - 📝 AI-powered document automation platform
 - 🛠️ Tech: Python, MongoDB, Ollama
