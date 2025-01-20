@@ -8,9 +8,13 @@
 </p>
 
 ## 🚀 About Me
-CEO & Co-Founder of SMH Softwares | Full-Stack Developer | Machine Learning Enthusiast | Problem Solver
+Muhammad Saim Sajid
+Co-Founder & CEO at SMH Softwares | Software Engineer | Full-Stack Python Developer | Freelancer | Machine Learning | Automation
 
-I specialize in building scalable, maintainable software solutions and automating workflows for businesses. Passionate about clean code, efficient delivery, and driving innovation.
+A passionate and accomplished Software Engineer from Pakistan. Specializing in Full-Stack Python Development, he brings a wealth of expertise in crafting scalable and efficient back-end systems using technologies like Python, Django, FastAPI, and cloud platforms such as AWS. With a solid command of database management tools, including MongoDB, PostgreSQL, and MySQL, Saim excels in building robust and innovative software solutions.
+
+His experience spans working on high-impact projects like NovoScribe—an AI-powered documentation tool for Novo Nordisk—and Image Sync, a task management system optimizing image uploads with Django and Redis. Saim also explores his creative side through personal projects like Wizard Watch, an engaging platform for Harry Potter fans.
+Driven by problem-solving and continuous learning, he is equally skilled in machine learning frameworks such as Haystack, LangChain, and Pandas, pushing the boundaries of technology to deliver transformative solutions. With his dedication to innovation and a collaborative mindset, Saim is not only a software engineer but also a visionary who strives to merge technical excellence with meaningful impact.
 
 ## 💻 Tech Stack
 <p align="center">
