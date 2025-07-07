@@ -14,7 +14,7 @@ Experienced Software Engineer specializing in Full-Stack Python Development, wit
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,django,fastapi,drf,jwt,celery,mongodb,postgres,mysql,redis,docker,git,firebase,playwright,selenium,bs,lxml,haystack,langchain,pandas,numpy,matplotlib">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,selenium,aws,git,docker,ubuntu,mongodb,postgres,mysql,redis,firebase,sqlite,wordpress,tailwind,bootstrap,streamlit,html5,haystack,langchain,pandas,numpy,matplotlib" />
 </p>
 
 
