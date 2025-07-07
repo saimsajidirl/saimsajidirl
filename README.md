@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=3B88C3&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saim;Software+Engineer;Full+Stack+Developer;CEO+of+SMH+Softwares;Automation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=3B88C3&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saim;Software+Engineer;Full+Stack+Developer;;Automation+Engineer;Web+Scraper;CEO+of+SMH+Softwares;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 ### Muhammad Saim
 
-Muhammad Saim is a skilled Software Engineer specializing in Full-Stack Python Development, with a strong interest in Machine Learning.He is proficient in Python, Django, FastAPI, and cloud services like AWS. With a strong foundation in database management (MongoDB, PostgreSQL, MySQL) and tools such as Docker, Redis, and Git, he excels in robust back-end solutions. His machine learning expertise includes frameworks like HayStack,Langchain, Pandas, and Streamlit. Driven by problem-solving and continuous learning, Saim combines technical proficiency with a dedication to innovation.
+Software Engineer specializing in Full-Stack Python Development, with a focus on backend systems, Automation,Web Scraping and AI applications. Experienced in building production-grade tools like NovoScribe, a GenAI clinical reporting system for Novo Nordisk, and Tiktok Live Automation, a high-speed TikTok automation engine. Proficient in Django, FastAPI, MongoDB, and Playwright, I bring deep backend expertise with tech like databases, LLMs, and DevOps tools to solve real-world problems with efficiency.
 
 ## 💻 Tech Stack
 <p align="center">
@@ -20,7 +20,8 @@ Muhammad Saim is a skilled Software Engineer specializing in Full-Stack Python D
 
 ## 🎯 Expertise
 - 🔷 Full-Stack Development
-- 🔷 Workflow Automation
+- 🔷 Web Automation
+- 🔷 Web Scraping
 - 🔷 API Development & System Design
 
 ## 📈 GitHub Stats
@@ -31,12 +32,6 @@ Muhammad Saim is a skilled Software Engineer specializing in Full-Stack Python D
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimsajidirl&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
   </a>
 </p>
-
-## 🎯 Future Goals
-- 🔮 Create a physical Space of SMH Softwares
-- 📚 Focus more on Automation
-- 🤖 Integrate advanced AI solutions in software products
-- 🎓 Become a Machine Learning Engineer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
