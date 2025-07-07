@@ -10,7 +10,7 @@
 ## 🚀 About Me
 ### Muhammad Saim
 
-Software Engineer specializing in Full-Stack Python Development, with a focus on backend systems, Automation,Web Scraping and AI applications. Experienced in building production-grade tools like NovoScribe, a GenAI clinical reporting system for Novo Nordisk, and Tiktok Live Automation, a high-speed TikTok automation engine. Proficient in Django, FastAPI, MongoDB, and Playwright, I bring deep backend expertise with tech like databases, LLMs, and DevOps tools to solve real-world problems with efficiency.
+Experienced Software Engineer specializing in Full-Stack Python Development, with a strong emphasis on backend systems, Automation, Web Scraping, and AI-driven applications. Experienced in architecting and delivering production-grade solutions for enterprise use cases, including real-time automation engines and GenAI-powered platforms. Proficient in Django, FastAPI, MongoDB, and Playwright, with solid expertise in scraping frameworks like BeautifulSoup and lxml. Adept at working with databases, large language models (LLMs), and DevOps tools to build scalable, high-performance systems that solve complex, real-world problems efficiently.
 
 ## 💻 Tech Stack
 <p align="center">
