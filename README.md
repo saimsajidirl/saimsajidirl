@@ -14,42 +14,9 @@ Experienced Software Engineer specializing in Full-Stack Python Development, wit
 
 ## 💻 Tech Stack
 <p align="center">
-  <!-- Icons from skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=django" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-  
-  <!-- Text-only tools -->
-  <span style="margin: 0 10px; font-weight: bold;">Django Rest Framework (DRF)</span>
-  <span style="margin: 0 10px; font-weight: bold;">JSON Web Token (JWT)</span>
-  <span style="margin: 0 10px; font-weight: bold;">Celery</span>
-
-  <!-- DBs -->
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=redis" />
-
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=git" />
-
-  <!-- Cloud & Automation -->
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <span style="margin: 0 10px; font-weight: bold;">Playwright</span>
+  <img src="https://skillicons.dev/icons?i=python,js,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=docker,git,mongodb,postgres,mysql,redis,firebase" />
   <img src="https://skillicons.dev/icons?i=selenium" />
-  <span style="margin: 0 10px; font-weight: bold;">Beautiful Soup</span>
-  <span style="margin: 0 10px; font-weight: bold;">LXML</span>
-
-  <!-- LLM/AI -->
-  <span style="margin: 0 10px; font-weight: bold;">Haystack</span>
-  <span style="margin: 0 10px; font-weight: bold;">Langchain</span>
-
-  <!-- Data Science -->
-  <span style="margin: 0 10px; font-weight: bold;">Pandas</span>
-  <span style="margin: 0 10px; font-weight: bold;">Numpy</span>
-  <span style="margin: 0 10px; font-weight: bold;">Matplotlib</span>
 </p>
 
 
